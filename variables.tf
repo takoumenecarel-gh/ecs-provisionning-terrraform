@@ -31,7 +31,7 @@ variable "container_name" {
 variable "container_image" {
   description = "Container image"
   type        = string
-  default     = "977098999802.dkr.ecr.us-east-1.amazonaws.com/dev:latest"
+  default     = "351554785424.dkr.ecr.us-east-1.amazonaws.com/dev:latest"
 }
 
 variable "container_port" {
